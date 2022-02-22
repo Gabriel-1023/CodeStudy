@@ -16,7 +16,7 @@ public class ReferenceCountingGC {
         a = null;
         b = null;
 
-        
+
     }
 }
 
